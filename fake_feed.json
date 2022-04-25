@@ -1,6 +1,6 @@
 {
   "forecasts": [
-    {
+    { 
       "forecasted_at": "2022-03-01T01:01:00+0:00",
       "forecast_id": "10",
       "update_id": "1",
